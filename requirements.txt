@@ -36,7 +36,7 @@ datashape==0.5.4
 decorator==4.1.2
 distlib==0.2.5
 distorm3==3.3.4
-distributed==1.19.1
+distributed==2021.10.0
 Django==2.2.5
 docutils==0.14
 entrypoints==0.2.3
